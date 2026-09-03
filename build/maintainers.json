@@ -2766,6 +2766,9 @@
     "u3u",
     "FlanChanXwO"
   ],
+  "/baidu/baijiahao/:id/:tab?": [
+    "TonyRL"
+  ],
   "/baidu/search/:keyword": [
     "CaoMeiYouRen"
   ],
@@ -9947,6 +9950,9 @@
   ],
   "/bloomberg/:site?": [
     "bigfei"
+  ],
+  "/br-klassik/aktuell": [
+    "wongJG"
   ],
   "/brooklynmuseum/exhibitions/:state?": [
     "chazeon"
