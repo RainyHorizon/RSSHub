@@ -115,7 +115,7 @@
         "ofetch": "1.5.1",
         "otplib": "13.5.0",
         "oxc-parser": "0.149.0",
-        "p-map": "7.0.7",
+        "p-map": "7.0.8",
         "pac-proxy-agent": "9.1.0",
         "patchright": "1.63.0",
         "postal-mime": "3.0.0",
@@ -144,7 +144,7 @@
         "xxhash-wasm": "1.1.0",
         "youtube-caption-extractor": "1.10.2",
         "youtubei.js": "18.0.0",
-        "zod": "4.6.2"
+        "zod": "4.6.5"
     },
     "devDependencies": {
         "@actions/core": "3.0.1",
